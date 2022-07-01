@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuğçe</h1>
-<h3 align="center">An Android from Turkey</h3>
+<h3 align="center">An Android Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Android**
 
