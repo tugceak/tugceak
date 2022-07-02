@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuğçe</h1>
 <h3 align="center">An Android Developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/itstugceae" target="blank"><img src="https://img.shields.io/twitter/follow/itstugceae?logo=twitter&style=for-the-badge" alt="itstugceae" /></a> </p>
 
 - 🌱 I’m currently learning **Android**
 
